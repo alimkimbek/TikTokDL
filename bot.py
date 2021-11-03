@@ -14,7 +14,7 @@ START_BUTTONS=[
     [
         InlineKeyboardButton('Канал', url='https://t.me/SJa_bots'),
     ],
-    [InlineKeyboardButton('Автор', url='https://t.me/xgorn')],
+    [InlineKeyboardButton('Автор', url='https://t.me/sj_lynx')],
 ]
 
 DL_BUTTONS=[
