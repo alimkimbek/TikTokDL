@@ -21,12 +21,8 @@ DL_BUTTONS=[
     [
         InlineKeyboardButton('🚱Без водяного знака', callback_data='nowm'),
     ],
-    [
-        InlineKeyboardButton('🚰С водяным знаком', callback_data='wm'),
-    ],
-    [InlineKeyboardButton('🎧Аудио', callback_data='audio')],
+    [InlineKeyboardButton('🚰С водяным знаком', callback_data='wm')],
 ]
-
 
 # Running bot
 xbot = Client('TikTokDL', api_id=APP_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
